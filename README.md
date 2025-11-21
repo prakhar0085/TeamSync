@@ -27,6 +27,7 @@
 
 
 ## Architecture & Tech Stack
+![Architecture_Diagram](TeamSync.jpg).
 ### Backend Stack
 - Runtime: Node.js
 - Framework: Express.js
