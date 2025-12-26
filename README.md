@@ -80,7 +80,6 @@ A powerful SaaS platform for team project management, built with modern web tech
 | Technology | Purpose |
 |------------|---------|
 | ![React](https://img.shields.io/badge/React-19.1-blue?logo=react) | UI library |
-| ![TypeScript](https://img.shields.io/badge/TypeScript-Ready-blue?logo=typescript) | Type safety |
 | ![Vite](https://img.shields.io/badge/Vite-7.1-646CFF?logo=vite) | Build tool & dev server |
 | ![Tailwind CSS](https://img.shields.io/badge/Tailwind-4.1-38B2AC?logo=tailwind-css) | Styling framework |
 | ![Redux Toolkit](https://img.shields.io/badge/Redux-Toolkit-764ABC?logo=redux) | State management |
