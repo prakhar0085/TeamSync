@@ -8,19 +8,11 @@
 [![Node.js](https://img.shields.io/badge/Node.js-20-green?logo=node.js)](https://nodejs.org/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Prisma-blue?logo=postgresql)](https://www.postgresql.org/)
 [![Express](https://img.shields.io/badge/Express-5.1-lightgrey?logo=express)](https://expressjs.com/)
-<<<<<<< HEAD
-[![TypeScript](https://img.shields.io/badge/TypeScript-Ready-blue?logo=typescript)](https://www.typescriptlang.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 A powerful SaaS platform for team project management, built with modern web technologies. TeamSync provides organizations with enterprise-grade tools for workspace management, project tracking, task collaboration, and team coordination—all powered by event-driven notifications and role-based access control.
 
 [Features](#-features) • [Tech Stack](#-tech-stack) • [Architecture](#-architecture) • [Getting Started](#-getting-started) • [Documentation](#-documentation)
-=======
-
-
-A powerful SaaS platform for team project management, built with modern web technologies. TeamSync provides organizations with enterprise-grade tools for workspace management, project tracking, task collaboration, and team coordination—all powered by event-driven notifications and role-based access control.
-
-
->>>>>>> e1ee6870e5507d30b80e71ff9153626ee7ff5e37
 
 </div>
 
@@ -88,10 +80,7 @@ A powerful SaaS platform for team project management, built with modern web tech
 | Technology | Purpose |
 |------------|---------|
 | ![React](https://img.shields.io/badge/React-19.1-blue?logo=react) | UI library |
-<<<<<<< HEAD
-| ![TypeScript](https://img.shields.io/badge/TypeScript-Ready-blue?logo=typescript) | Type safety |
-=======
->>>>>>> e1ee6870e5507d30b80e71ff9153626ee7ff5e37
+| ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?logo=javascript) | Programming language |
 | ![Vite](https://img.shields.io/badge/Vite-7.1-646CFF?logo=vite) | Build tool & dev server |
 | ![Tailwind CSS](https://img.shields.io/badge/Tailwind-4.1-38B2AC?logo=tailwind-css) | Styling framework |
 | ![Redux Toolkit](https://img.shields.io/badge/Redux-Toolkit-764ABC?logo=redux) | State management |
@@ -174,10 +163,6 @@ graph TB
 
     AIService --> Gemini
 
-<<<<<<< HEAD
-
-=======
->>>>>>> e1ee6870e5507d30b80e71ff9153626ee7ff5e37
     classDef frontend fill:#61dafb,stroke:#000,stroke-width:2px,color:#000
     classDef backend fill:#68a063,stroke:#000,stroke-width:2px,color:#fff
     classDef database fill:#336791,stroke:#000,stroke-width:2px,color:#fff
@@ -499,60 +484,6 @@ npm run build
 
 ---
 
-<<<<<<< HEAD
-## 🤝 Contributing
 
-Contributions are welcome! Please follow these steps:
 
-1. **Fork the repository**
-2. **Create a feature branch** (`git checkout -b feature/AmazingFeature`)
-3. **Commit your changes** (`git commit -m 'Add some AmazingFeature'`)
-4. **Push to the branch** (`git push origin feature/AmazingFeature`)
-5. **Open a Pull Request**
 
-### Code Style
-
-- Use **ESLint** for JavaScript/React code
-- Follow **Prettier** formatting rules
-- Write meaningful commit messages
-- Add comments for complex logic
-
----
-
-## 📝 License
-
-This project is licensed under the **ISC License**.
-
----
-
-## 🙏 Acknowledgments
-
-- **[Clerk](https://clerk.com/)** - Authentication & user management
-- **[Inngest](https://www.inngest.com/)** - Event-driven background jobs
-- **[Neon](https://neon.tech/)** - Serverless PostgreSQL
-- **[Prisma](https://www.prisma.io/)** - Next-generation ORM
-- **[Google Gemini](https://ai.google.dev/)** - AI integration
-- **[Tailwind CSS](https://tailwindcss.com/)** - Utility-first CSS framework
-- **[Lucide Icons](https://lucide.dev/)** - Beautiful icon library
-
----
-
-## 📞 Support
-
-If you have any questions or need help, please:
-
-- 📧 Open an issue on GitHub
-- 💬 Join our Discord community (if available)
-- 📖 Check the [documentation](#-documentation)
-
----
-
-=======
->>>>>>> e1ee6870e5507d30b80e71ff9153626ee7ff5e37
-<div align="center">
-
-**Built with ❤️ by the TeamSync Team**
-
-⭐ Star this repo if you find it helpful!
-
-</div>
