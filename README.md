@@ -8,7 +8,7 @@
 [![Node.js](https://img.shields.io/badge/Node.js-20-green?logo=node.js)](https://nodejs.org/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Prisma-blue?logo=postgresql)](https://www.postgresql.org/)
 [![Express](https://img.shields.io/badge/Express-5.1-lightgrey?logo=express)](https://expressjs.com/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-Ready-blue?logo=typescript)](https://www.typescriptlang.org/)
+
 
 A powerful SaaS platform for team project management, built with modern web technologies. TeamSync provides organizations with enterprise-grade tools for workspace management, project tracking, task collaboration, and team coordination—all powered by event-driven notifications and role-based access control.
 
