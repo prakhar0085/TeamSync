@@ -14,6 +14,8 @@ A powerful SaaS platform for team project management, built with modern web tech
 
 [Features](#-features) • [Tech Stack](#-tech-stack) • [Architecture](#-architecture) • [Getting Started](#-getting-started) • [Documentation](#-documentation)
 
+🌐 **Live Demo:** [https://teamSync.com ](https://teamsync-server-plum.vercel.app/)
+
 </div>
 
 ---
